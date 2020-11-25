@@ -23,7 +23,7 @@ const MainContainer = styled.View`
   width: 100%;
   height: 100%;
   background-color: #20202d;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   padding-left: 15px;
   padding-right: 15px;
