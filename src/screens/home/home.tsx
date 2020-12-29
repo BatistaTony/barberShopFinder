@@ -2,12 +2,12 @@ import React from 'react';
 import {Text} from 'react-native';
 import {Container} from './styles';
 
-const SignUp = () => {
+const Home = () => {
   return (
     <Container>
-      <Text>Sign Up</Text>
+      <Text>Home</Text>
     </Container>
   );
 };
 
-export default SignUp;
+export default Home;

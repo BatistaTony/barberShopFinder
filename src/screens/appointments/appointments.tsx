@@ -2,12 +2,12 @@ import React from 'react';
 import {Text} from 'react-native';
 import {Container} from './styles';
 
-const SignUp = () => {
+const Appointments = () => {
   return (
     <Container>
-      <Text>Sign Up</Text>
+      <Text>Appointments</Text>
     </Container>
   );
 };
 
-export default SignUp;
+export default Appointments;
